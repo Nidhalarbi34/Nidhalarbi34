@@ -1,4 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;This+is+Nidhal+Larbi;Nice+to+meet+you" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;This+is+Nidhal+Larbi;Nice+to+meet+you" alt="Typing SVG" /></a>
 <h3 align="center">Student at National Engineering School Of Carthage</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhalarbi34&label=Profile%20views&color=0e75b6&style=flat" alt="nidhalarbi34" /> </p>
