@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;This+is+Nidhal+Larbi;Nice+to+meet+you)](https://git.io/typing-svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;This+is+Nidhal+Larbi;Nice+to+meet+you" alt="Typing SVG" /></a>
 <h3 align="center">Student at National Engineering School Of Carthage</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhalarbi34&label=Profile%20views&color=0e75b6&style=flat" alt="nidhalarbi34" /> </p>
+<h4 align="center">I am interested in Web Development and Devops </h4>
 
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://nidhallarbi.vercel.app/](https://nidhallarbi.vercel.app/)
 
-- 💬 Ask me about **Spring Boot Angular**
 
 - 📫 How to reach me **nidhal.larbi@enicar.ucar.tn**
 
