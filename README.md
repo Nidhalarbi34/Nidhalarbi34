@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;This+is+Nidhal+Larbi;Nice+to+meet+you)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&weight=900&size=30&duration=4000&pause=500&center=true&vCenter=true&width=1100&height=120&lines=Hello%2C+there!+%F0%9F%91%8B;This+is+Nidhal+Larbi;Nice+to+meet+you)](https://git.io/typing-svg)
+
 <h5 align="center">
 
 <h3 align="center">Student at National Engineering School Of Carthage</h3>
