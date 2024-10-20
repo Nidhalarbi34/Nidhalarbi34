@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://nidhallarbi.vercel.app/](https://nidhallarbi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://nidhalarbi.vercel.app/](https://nidhalarbi.vercel.app/)
 
 - 💬 Ask me about **Spring Boot Angular**
 
